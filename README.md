@@ -42,8 +42,8 @@ It emulates how a **PLC**, **HMI**, and **process control logic** interact in a 
  └───────────────────────────────────────────────┘
 
  ## Jenkins Flow Daiagram 
+![Jenkins Flow Diagram](figures/Industrial%20Automation%20CI_CD%20Pipeline%20Flow.png)
 
-![Jenkins Flow Daiagram](https://www.figma.com/board/14VLVDxKQZbpVy3CKa2p2q/Industrial-Automation-CI-CD-Pipeline-Flow?node-id=0-1&t=xnWXHMn0iunwqvpJ-1)
 
 
 
