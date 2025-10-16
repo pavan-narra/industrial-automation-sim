@@ -26,7 +26,7 @@ It emulates how a **PLC**, **HMI**, and **process control logic** interact in a 
 ---
 ##  Data Flow Diagram
 
-![Data Flow Diagram](figures/Data_Flow_Diagram.png)
+![Data Flow Diagram](figures/system-architecture.png)
 
  ## Jenkins Flow Daiagram 
 ![Jenkins Flow Diagram](figures/CI_CDPipelineFlow.png)
