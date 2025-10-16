@@ -26,23 +26,10 @@ It emulates how a **PLC**, **HMI**, and **process control logic** interact in a 
 ---
 ##  Data Flow Diagram
 
- ┌───────────────────────────────────────────────┐
- │           Industrial Automation System        │
- ├───────────────────────────────────────────────┤
- │                                               │
- │  ┌────────────┐       ┌────────────┐          │
- │  │  PID Ctrl  │ <---->│ Modbus I/O │          │
- │  └────────────┘       └────────────┘          │
- │         ▲                    │               │
- │         │                    ▼               │
- │  ┌────────────┐       ┌────────────┐          │
- │  │ OPC UA API │ <---->│ HMI/SCADA  │          │
- │  └────────────┘       └────────────┘          │
- │                                               │
- └───────────────────────────────────────────────┘
+![Data Flow Diagram](figures/Data_Flow_Diagram.png)
 
  ## Jenkins Flow Daiagram 
-![Jenkins Flow Diagram](figures/Industrial%20Automation%20CI_CD%20Pipeline%20Flow.png)
+![Jenkins Flow Diagram](figures/CI_CDPipelineFlow.png)
 
 
 
